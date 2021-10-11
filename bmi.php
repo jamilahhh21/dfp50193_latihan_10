@@ -26,7 +26,7 @@
         </tr>
         <tr>
             <td>BMI:</td>
-            <td><?php echo $bmi; ?></td>
+            <td><?php echo number_format(bmi($berat, $tinggi),2); ?></td>
         </tr>
     </table>
 </body>
