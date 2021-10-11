@@ -34,6 +34,6 @@
 
 
     ?>
-    <p><a href="contoh.php"></a></p>
+    <p><a href="contoh.php">CONTOH</a></p>
 </body>
 </html>
